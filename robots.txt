@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zh.markquan.cn/sitemap.xml
